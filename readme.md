@@ -11,3 +11,5 @@
   - **database/** holds the code to process the database to graph fingerprints.
 
 Detailed information can be found in the info.txt files under each folder.
+
+The related paper has been published in Digital Discovery (2022) DOI: 10.1039/D1DD00039J
